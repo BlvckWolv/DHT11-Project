@@ -1,2 +1,2 @@
-# DHT11-Project
+# DHT22-Project
 Simple Temperature &amp; Humidifier 
